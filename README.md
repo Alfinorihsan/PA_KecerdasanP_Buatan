@@ -1,1 +1,1 @@
-# PA_KecerdasanP_Buatan
+# PA_Kecerdasan_Buatan
